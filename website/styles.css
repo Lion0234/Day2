@@ -1,6 +1,9 @@
-.mos{
-    font-weight: bold;
-    color: blue;
-    background-color: #d1bc00;
-    margin-left: 10px;
+.mos {
+  font-weight: bold;
+  color: blue;
+  background-color: #d1bc00;
+  margin-left: 10px;
+}
+.textbox {
+  box-align: "left";
 }
